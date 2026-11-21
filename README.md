@@ -1,6 +1,6 @@
 # XiYingChain
 
-连锁挖矿插件，移植自 LiteLoaderBDS 的 JS 插件 [chain.js](https://github.com/LCH0426/NECE)（作者 LCH0426，GPL-3.0），适用于 **Paper / Purpur 1.20+**，Java 与基岩（Geyser/Floodgate）玩家均可使用。
+连锁挖矿插件，适用于 **Paper / Purpur 1.20+**，Java 与基岩（Geyser/Floodgate）玩家均可使用。
 
 ## 功能
 
@@ -65,7 +65,3 @@ cd out && jar cf ../XiYingChain-1.0.0.jar .
 - `chainMining` Set 标记衍生方块，避免递归触发
 - `applyDurability` 延迟扣耐久
 - `players.yml` 玩家设置持久化（60 秒异步自动保存）
-
-## 许可
-
-原插件 chain.js 由 LCH0426 以 GPL-3.0 发布，本 Java 移植版保留其署名与许可声明。

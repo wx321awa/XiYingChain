@@ -25,7 +25,7 @@ import java.io.IOException;
 import java.util.*;
 
 /**
- * XiYing 连锁挖矿 —— 移植自 LLBDS chain.js (LCH0426, GPL-3.0)
+ * XiYing 连锁挖矿
  * 支持 Paper/Purpur 1.20+，基岩玩家(Geyser/Floodgate)同样可用
  */
 public class ChainPlugin extends JavaPlugin implements Listener, TabExecutor {
